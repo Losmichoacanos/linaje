@@ -1,0 +1,30 @@
+{
+  "name": "Linaje · Libro de criadero",
+  "short_name": "Linaje",
+  "description": "Ejemplares, pedigrí, cruces, peleas y finanzas del criadero.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#edf1e9",
+  "theme_color": "#16231b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
